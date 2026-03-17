@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/Abhinav90909/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhinav90909/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Abhinav90909/DSA/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav90909/DSA/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhinav90909/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhinav90909/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
