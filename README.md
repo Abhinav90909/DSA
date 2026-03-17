@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhinav90909/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhinav90909/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
