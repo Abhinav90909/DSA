@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhinav90909/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
@@ -12,6 +13,7 @@
 | [0015-3sum](https://github.com/Abhinav90909/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Abhinav90909/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhinav90909/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Abhinav90909/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
