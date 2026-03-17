@@ -28,6 +28,7 @@
 | [0027-remove-element](https://github.com/Abhinav90909/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhinav90909/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Abhinav90909/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhinav90909/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav90909/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abhinav90909/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhinav90909/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Sorting
