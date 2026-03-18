@@ -32,6 +32,7 @@
 | [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhinav90909/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
