@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/Abhinav90909/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Matrix
 |  |
 | ------- |
