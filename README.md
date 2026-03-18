@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Abhinav90909/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhinav90909/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
 |  |
@@ -28,6 +29,7 @@
 | [0136-single-number](https://github.com/Abhinav90909/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abhinav90909/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +111,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhinav90909/DSA/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
