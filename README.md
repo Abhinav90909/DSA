@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav90909/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhinav90909/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhinav90909/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhinav90909/DSA/tree/master/0054-spiral-matrix) |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhinav90909/DSA/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
