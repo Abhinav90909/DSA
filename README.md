@@ -33,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhinav90909/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0162-find-peak-element](https://github.com/Abhinav90909/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhinav90909/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
