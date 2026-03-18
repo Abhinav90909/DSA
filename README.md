@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Abhinav90909/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav90909/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Abhinav90909/DSA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abhinav90909/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
