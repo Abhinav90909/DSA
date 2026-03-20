@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinav90909/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
 |  |
@@ -36,6 +37,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav90909/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhinav90909/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav90909/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinav90909/DSA/tree/master/0054-spiral-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
