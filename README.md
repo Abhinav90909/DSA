@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Abhinav90909/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhinav90909/DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Abhinav90909/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Abhinav90909/DSA/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhinav90909/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Array
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhinav90909/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhinav90909/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav90909/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
@@ -145,4 +147,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhinav90909/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Abhinav90909/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
