@@ -38,6 +38,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhinav90909/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav90909/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhinav90909/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhinav90909/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhinav90909/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhinav90909/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav90909/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhinav90909/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,4 +151,24 @@
 | ------- |
 | [0050-powx-n](https://github.com/Abhinav90909/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Abhinav90909/DSA/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhinav90909/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
